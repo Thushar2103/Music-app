@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="screenshots/app_icon.png" alt="App Icon" width="150">
+  <img src="assets/app_icon.png" alt="App Icon" width="50" style="vertical-align: middle; margin-right: 10px;">
+  <span style="font-size: 2em; font-weight: bold;">MusiHolic</span>
 </p>
-
-<h1 align="center">🎵 MusiHolic </h1>
 
 A minimalist music streaming app built using **Flutter** and **Supabase**. The app streams songs stored in a **Supabase bucket** with a clean interface and **Dark Mode** for an enjoyable listening experience.
 
